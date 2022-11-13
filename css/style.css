@@ -1,0 +1,35 @@
+.caja {
+    text-align: center;
+    border: 4px;
+    border-color: black;
+    padding-bottom: 20px;}
+
+h2,h3{
+    font-size:  20px;
+    font-weight: bold;
+    padding: 40px,25px,5px,25px;
+    text-align: center;
+    padding-bottom: 20px;}
+
+p {padding-bottom: 20px;}
+
+img{
+    height: 100x;
+    width: 100%;}
+
+span{
+    color: rgb(136, 130, 130);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 25%;
+text-align: top;}
+
+footer {
+    margin: 20px;
+    padding: 20px,20px,20px,20px;
+text-align: right;
+color: rgb(59, 59, 59);}
+
+strong{margin-left: 15%;
+    margin-right: 15%;}
+
