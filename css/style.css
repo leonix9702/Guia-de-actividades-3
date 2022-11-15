@@ -19,9 +19,7 @@ img{
 
 span{
     color: rgb(136, 130, 130);
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 25%;
+
 text-align: top;}
 
 footer {
@@ -30,6 +28,31 @@ footer {
 text-align: right;
 color: rgb(59, 59, 59);}
 
-strong{margin-left: 15%;
-    margin-right: 15%;}
+.espacio{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+}
+.espacio2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
+.pies{
+    position: relative;
+    text-align: right;
+    text-decoration: none;
+}
+.pies2{
+    margin: 25px;
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+}
+.dipped{
+    height: 40%;
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 20px;
+}
